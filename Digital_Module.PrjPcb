@@ -38,23 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Processor_unit.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VQYLLHKF
-
-[Document2]
 DocumentPath=power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,6 +53,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LQZNDJEG
+
+[Document2]
+DocumentPath=OAI_KPA_Digital_part.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NQABXHNJ
 
 [Document3]
 DocumentPath=adc.SchDoc
@@ -327,130 +327,134 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Digital_Module\Design Rule Check - Processor_unit.html
+DocumentPath=Project Outputs for Digital_Module\Design Rule Check - OAI_KPA_Digital_part.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.DRR
+DocumentPath=Project Outputs for Digital_Module\Design Rule Check - Processor_unit.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.EXTREP
+DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.G1
+DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.GBL
+DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.G1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.GBS
+DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.GM1
+DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.GP1
+DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.GTL
+DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.GTS
+DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.LDP
+DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.REP
+DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.RUL
+DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.REP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.TXT
+DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Digital_Module\BOM\Digital_Module.xlsx
+DocumentPath=Project Outputs for Digital_Module\Gerbers\Digital_Module\Digital_Module.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Processor_unit.DRR
+DocumentPath=Project Outputs for Digital_Module\BOM\Digital_Module.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.EXTREP
+DocumentPath=Project Outputs for Free Documents\NC Drill\Processor_unit.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.G1
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBL
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.G1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBO
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBP
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBS
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GM1
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GP1
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTL
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTO
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTP
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTS
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Processor_unit.LDP
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.REP
+DocumentPath=Project Outputs for Free Documents\NC Drill\Processor_unit.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.RUL
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.REP
 DItemRevisionGUID=
 
 [GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
 DocumentPath=Project Outputs for Free Documents\NC Drill\Processor_unit.TXT
 DItemRevisionGUID=
 
@@ -616,7 +620,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS M4132idn
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
